@@ -26,6 +26,8 @@ Python
 
 ### grub2
 
+### ip
+
 ### journal
 
 ### lvm

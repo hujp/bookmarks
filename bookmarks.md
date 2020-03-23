@@ -22,6 +22,8 @@ Python
 
 ### grub2
 
+### journal
+
 ### ssh
 
 [命令行] git

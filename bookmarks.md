@@ -18,6 +18,8 @@ Python
 
 ### curl
 
+### fsck
+
 ### gcc
 
 ### grub2

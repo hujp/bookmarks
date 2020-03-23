@@ -26,6 +26,8 @@ Python
 
 ### lvm
 
+### mdadm
+
 ### ssh
 
 ### yum

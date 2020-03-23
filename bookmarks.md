@@ -32,7 +32,13 @@ Python
 
 ### mdadm
 
+### qemu
+
 ### ssh
+
+### virsh
+
+### vnc
 
 ### yum
 

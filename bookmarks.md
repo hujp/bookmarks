@@ -20,6 +20,8 @@ Python
 
 ### gcc
 
+### grub2
+
 ### ssh
 
 [命令行] git

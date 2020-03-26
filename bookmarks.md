@@ -22,7 +22,11 @@ Python
 
 ### curl
 
+### df
+
 ### dmesg
+
+### du
 
 ### fsck
 
@@ -39,6 +43,8 @@ Python
 ### ip
 
 ### journal
+
+### lsof
 
 ### lvm
 

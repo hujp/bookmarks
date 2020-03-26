@@ -67,3 +67,8 @@ Python
 
 Linux pxe自动化安装
 ------------------
+
+其他
+====
+
+* 清华大学开源镜像站 <https://mirrors.tuna.tsinghua.edu.cn/>

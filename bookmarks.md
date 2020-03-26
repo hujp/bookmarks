@@ -34,6 +34,8 @@ Python
 
 ### iostat
 
+### iotop
+
 ### ip
 
 ### journal
@@ -43,6 +45,8 @@ Python
 ### mdadm
 
 ### ping
+
+### ps
 
 ### qemu
 

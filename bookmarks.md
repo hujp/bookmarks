@@ -42,6 +42,8 @@ Python
 
 ### ssh
 
+### tty
+
 ### virsh
 
 ### vnc

@@ -38,6 +38,8 @@ Python
 
 ### qemu
 
+### rpm
+
 ### ssh
 
 ### virsh

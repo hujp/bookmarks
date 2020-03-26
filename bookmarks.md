@@ -26,6 +26,8 @@ Python
 
 ### gcc
 
+### gdb
+
 ### grub2
 
 ### ip

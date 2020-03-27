@@ -88,6 +88,10 @@ Python
 
 ### rpm
 
+### rpmbuild
+
+* RPM build guide <https://rpm-packaging-guide.github.io/>
+
 ### setsid
 
 ### ssh

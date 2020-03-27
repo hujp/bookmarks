@@ -30,6 +30,10 @@ Python
 
 ### du
 
+### e2fs
+
+* 如何修复 extX 文件系统超级块 <https://www.cnblogs.com/kl876435928/p/7819565.html>
+
 ### fsck
 
 ### gcc

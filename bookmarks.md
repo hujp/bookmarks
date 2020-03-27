@@ -91,6 +91,7 @@ Python
 ### rpmbuild
 
 * RPM build guide <https://rpm-packaging-guide.github.io/>
+* rename and split package <https://fedoraproject.org/wiki/Upgrade_paths_%E2%80%94_renaming_or_splitting_packages>
 
 ### setsid
 

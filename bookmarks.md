@@ -133,8 +133,20 @@ Linux pxe自动化安装
 其他
 ====
 
+工具类
+------
+
+* 16 进制字符串转文本字符串 <http://www.bejson.com/convert/ox2str/>
+
+文档代码类
+---------
+
 * linux 内核代码 <https://elixir.bootlin.com/linux/latest/source>
 * linux 内核命令行参数 <https://www.kernel.org/doc/html/v4.14/admin-guide/kernel-parameters.html>
+
+资源类
+-----
+
 * 清华大学开源镜像站 <https://mirrors.tuna.tsinghua.edu.cn/>
 * Fedora 开源官网 <https://src.fedoraproject.org/>
 * Fedora 官方 release 源 <https://dl.fedoraproject.org/pub/fedora/linux/releases/>

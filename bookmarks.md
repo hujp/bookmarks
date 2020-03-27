@@ -102,6 +102,8 @@ Python
 
 ### virsh
 
+* libvirt 虚拟机 xml 配置文件详解 <https://blog.51cto.com/as007012/1786034>
+
 ### vnc
 
 ### yum

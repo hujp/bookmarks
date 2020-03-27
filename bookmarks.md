@@ -123,6 +123,7 @@ Linux pxe自动化安装
 ====
 
 * linux 内核代码 <https://elixir.bootlin.com/linux/latest/source>
+* linux 内核命令行参数 <https://www.kernel.org/doc/html/v4.14/admin-guide/kernel-parameters.html>
 * 清华大学开源镜像站 <https://mirrors.tuna.tsinghua.edu.cn/>
 * Fedora 开源官网 <https://src.fedoraproject.org/>
 * Fedora 官方 release 源 <https://dl.fedoraproject.org/pub/fedora/linux/releases/>

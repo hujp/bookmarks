@@ -90,6 +90,8 @@ Python
 
 ### ssh
 
+* internal-sftp 和 sftp-server之间的区别和联系 <https://www.jianshu.com/p/f24d8ca565d7>
+
 ### tcpdump
 
 * tcpdump 参数解析及使用详解 <https://blog.csdn.net/hzhsan/article/details/43445787>

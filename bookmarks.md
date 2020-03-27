@@ -65,6 +65,10 @@ Python
 
 ### journal
 
+### ld
+
+* 恢复误删的 /lib64 目录 <https://linuxgeeks.github.io/2018/01/20/164155-CentOS%E7%9A%84lib%E5%BA%93%E8%AF%AF%E6%93%8D%E4%BD%9C%E5%92%8C%E4%BF%AE%E5%A4%8D/>
+
 ### ldapmodify
 
 * 如何配置 OpenLDAP <https://segmentfault.com/a/1190000014683418>
@@ -154,6 +158,7 @@ Linux pxe自动化安装
 
 * linux 内核代码 <https://elixir.bootlin.com/linux/latest/source>
 * linux 内核命令行参数 <https://www.kernel.org/doc/html/v4.14/admin-guide/kernel-parameters.html>
+* kubernetes 中文指南 <https://jimmysong.io/kubernetes-handbook/>
 
 资源类
 -----

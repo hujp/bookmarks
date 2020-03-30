@@ -20,6 +20,8 @@ Python
 
 ### arping
 
+* 测试 IP 地址冲突 <https://blog.csdn.net/wyqwclsn/article/details/41013647>
+
 ### audit
 
 * 定义审核规则 <https://access.redhat.com/documentation/zh-cn/red_hat_enterprise_linux/7/html/security_guide/sec-defining_audit_rules_and_controls>

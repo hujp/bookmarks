@@ -73,6 +73,9 @@ Python
 
 ### iotop
 
+* iotop 常用参数详解 <https://www.cnblogs.com/yinzhengjie/p/9934260.html>
+* IO 负载高的来源定位 <https://www.cnblogs.com/legendbaby/p/5056967.html>
+
 ### ip
 
 * Linux 策略路由 <https://www.cnblogs.com/iceocean/articles/1594488.html>

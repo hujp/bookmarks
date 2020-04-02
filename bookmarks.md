@@ -83,7 +83,9 @@ Python
 * Linux 虚拟网络设备之 veth <https://segmentfault.com/a/1190000009251098>
 * Linux 虚拟网络设备之 bridge <https://segmentfault.com/a/1190000009491002>
 
-### journal
+### journalctl
+
+* 查看、过滤、保存 journalctl 日志 <https://www.cnblogs.com/sparkdev/p/8795141.html>
 
 ### ld
 

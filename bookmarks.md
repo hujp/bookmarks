@@ -67,6 +67,10 @@ Python
 
 * 如何挂载 RAW 格式的镜像文件 <https://www.cnblogs.com/dspace/p/6920780.html>
 
+### iconv
+
+* Linux 查看文件编码及编码转换 <https://www.cnblogs.com/hnrainll/archive/2011/07/22/2113557.html>
+
 ### iostat
 
 * 监视 IO 子系统 <https://linuxtools-rst.readthedocs.io/zh_CN/latest/tool/iostat.html>

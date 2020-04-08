@@ -130,6 +130,8 @@ Python
 
 ### qemu
 
+* qemu-img <https://blog.csdn.net/qq_33932782/article/details/54896619>
+
 ### rpm
 
 ### rpmbuild

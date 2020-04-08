@@ -111,6 +111,8 @@ Python
 
 ### mdadm
 
+* Linux RAID 配置 <http://c.biancheng.net/view/928.html>
+
 ### mount
 
 * 如何挂载 RAW 格式的镜像文件 <http://smilejay.com/2012/08/mount-an-image-file/>

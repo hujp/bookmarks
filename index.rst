@@ -10,6 +10,7 @@ Welcome to bookmarks's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   cliapi/index
 
 
 Indices and tables

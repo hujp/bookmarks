@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'bookmarks'
-copyright = '2020, Jianghu'
-author = 'Jianghu'
+copyright = '2020, hujp'
+author = 'hujp'
 
 # The full version, including alpha/beta/rc tags
 release = '0.1'

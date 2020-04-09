@@ -12,6 +12,7 @@ Welcome to bookmarks's documentation!
 
    pl/index
    cliapi/index
+   si/index
 
 
 Indices and tables

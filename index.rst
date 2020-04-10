@@ -3,12 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to bookmarks's documentation!
-=====================================
+hujp 的书签
+===========
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
    pl/index
    cliapi/index

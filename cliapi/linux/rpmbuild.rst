@@ -7,3 +7,4 @@ rpmbuild
 * SPEC 语法 <https://blog.csdn.net/qianggezhishen/article/details/49815599>
 * RPM build guide <https://rpm-packaging-guide.github.io/>
 * rename and split package <https://fedoraproject.org/wiki/Upgrade_paths_%E2%80%94_renaming_or_splitting_packages>
+* with 和 without 区别 <http://trac.vinelinux.org/wiki/MakingRPM/Tips>

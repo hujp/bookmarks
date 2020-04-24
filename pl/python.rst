@@ -7,3 +7,4 @@ Python
 * Python 最佳实践指南 <https://pythonguidecn.readthedocs.io/zh/latest/>
 * 命令行工具 docopt <http://docopt.org/>
 * 命令行工具 click <https://click.palletsprojects.com/en/7.x/>
+* Python 打包分发工具 setuptools <https://juejin.im/post/5d46eb4bf265da03ef79f7e3>

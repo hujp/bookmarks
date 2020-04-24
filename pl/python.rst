@@ -5,3 +5,5 @@ Python
 
 * Python 官方教程 <https://docs.python.org/zh-cn/3/tutorial/index.html>
 * Python 最佳实践指南 <https://pythonguidecn.readthedocs.io/zh/latest/>
+* 命令行工具 docopt <http://docopt.org/>
+* 命令行工具 click <https://click.palletsprojects.com/en/7.x/>

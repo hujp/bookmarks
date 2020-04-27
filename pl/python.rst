@@ -5,6 +5,7 @@ Python
 
 * Python 官方教程 <https://docs.python.org/zh-cn/3/tutorial/index.html>
 * Python 最佳实践指南 <https://pythonguidecn.readthedocs.io/zh/latest/>
+* Python3 cook-book <https://python3-cookbook.readthedocs.io/zh_CN/latest/index.html>
 * 命令行工具 docopt <http://docopt.org/>
 * 命令行工具 click <https://click.palletsprojects.com/en/7.x/>
 * Python 打包分发工具 setuptools <https://juejin.im/post/5d46eb4bf265da03ef79f7e3>

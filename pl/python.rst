@@ -3,7 +3,7 @@
 Python
 ======
 
-* Python 官方教程 <https://docs.python.org/zh-cn/3/tutorial/index.html>
+* Python 官方文档 <https://docs.python.org/zh-cn/3/>
 * Python 最佳实践指南 <https://pythonguidecn.readthedocs.io/zh/latest/>
 * Python3 cook-book <https://python3-cookbook.readthedocs.io/zh_CN/latest/index.html>
 

@@ -4,3 +4,4 @@
 ============
 
 * 查看本地分支跟踪的是哪个远程分支 <https://blog.csdn.net/yezhuanxu/article/details/53004940>
+* git send-email 配置 <https://blog.csdn.net/orz365/article/details/9236143>

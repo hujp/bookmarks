@@ -8,3 +8,4 @@
    
    linux_pxe
    github_mirror
+   vscode_ssh

@@ -10,3 +10,4 @@ gdb
 * 100 个 gdb 小技巧 <https://wizardforcel.gitbooks.io/100-gdb-tips/up-down-select-frame.html>
 * gdb断点调试的两个技巧-condition和ignore <https://blog.csdn.net/lv_xinmy/article/details/8667214>
 * gdb调试宏定义并显示宏定义的值 <https://blog.csdn.net/zhangjs0322/article/details/39666889>
+* gdb 自定义脚本 <https://blog.csdn.net/hejinjing_tom_com/article/details/50350865>

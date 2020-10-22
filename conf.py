@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'bookmarks'
-copyright = '2020, hujp'
+copyright = '2021, hujp'
 author = 'hujp'
 
 # The full version, including alpha/beta/rc tags

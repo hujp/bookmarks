@@ -9,3 +9,4 @@ vim
 * 跳转到代码块的开始处 <https://blog.csdn.net/zxc995293774/article/details/81088507>
 * 打开多个文件、同时显示多个文件、在文件之间切换 <https://www.cnblogs.com/pengdonglin137/p/3525297.html>
 * vim技巧之重复 <https://blog.csdn.net/ii1245712564/article/details/46496347>
+* 空格替换成换行及删除空行 <https://blog.csdn.net/tterminator/article/details/51610778>

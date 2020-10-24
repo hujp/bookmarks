@@ -6,7 +6,9 @@
 .. toctree::
    :maxdepth: 2
    
-   linux_pxe
+   ansible
    github_mirror
+   linux_pxe
    vscode_ssh
    wsl
+   zookeeper

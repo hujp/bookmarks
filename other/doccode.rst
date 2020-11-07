@@ -1,6 +1,6 @@
 .. doccode:
 
-文档代码类
+文档代码
 ==========
 
 * linux 内核代码 <https://elixir.bootlin.com/linux/latest/source>

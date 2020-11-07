@@ -9,3 +9,4 @@
 * git clone 报证书错误的解决 <https://www.cnblogs.com/sddai/p/10208631.html>
 * git commit 之后想撤销 <https://www.cnblogs.com/lfxiao/p/9378763.html>
 * git 下载开源项目的 wiki <https://zgljl2012.com/github-ru-he-xia-zai-kai-yuan-xiang-mu-de-wiki/>
+* git cherry-pick <https://www.ruanyifeng.com/blog/2020/04/git-cherry-pick.html>

@@ -1,6 +1,6 @@
 .. other_resource:
 
-资源类
+资源
 ======
 
 * 清华大学开源镜像站 <https://mirrors.tuna.tsinghua.edu.cn/>

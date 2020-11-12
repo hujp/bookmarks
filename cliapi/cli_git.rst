@@ -11,3 +11,4 @@
 * git 下载开源项目的 wiki <https://zgljl2012.com/github-ru-he-xia-zai-kai-yuan-xiang-mu-de-wiki/>
 * git cherry-pick <https://www.ruanyifeng.com/blog/2020/04/git-cherry-pick.html>
 * git rebase -i <http://www.ruanyifeng.com/blog/2015/08/git-use-process.html>
+* git format-patch & git am <https://www.cnblogs.com/ArsenalfanInECNU/p/8931377.html>

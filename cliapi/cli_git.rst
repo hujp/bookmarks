@@ -12,3 +12,4 @@
 * git cherry-pick <https://www.ruanyifeng.com/blog/2020/04/git-cherry-pick.html>
 * git rebase -i <http://www.ruanyifeng.com/blog/2015/08/git-use-process.html>
 * git format-patch & git am <https://www.cnblogs.com/ArsenalfanInECNU/p/8931377.html>
+* git apply -R 如何删除已应用的git补丁 <https://www.coder.work/article/186892>

@@ -13,3 +13,5 @@ Python
 * Python 打包分发工具 setuptools <https://juejin.im/post/5d46eb4bf265da03ef79f7e3>
 * 函数参数中的\*与\*\* <https://blog.csdn.net/liuxingen/article/details/50113923>
 * Python 选择题库 <https://plc.pengin7384.endpoint.ainize.ai/>
+
+* Windows10下配置pip源并安装pip包 <https://blog.csdn.net/weixin_41831919/article/details/104725517>

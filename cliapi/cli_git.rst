@@ -13,3 +13,6 @@
 * git rebase -i <http://www.ruanyifeng.com/blog/2015/08/git-use-process.html>
 * git format-patch & git am <https://www.cnblogs.com/ArsenalfanInECNU/p/8931377.html>
 * git apply -R 如何删除已应用的git补丁 <https://www.coder.work/article/186892>
+* git log 中文乱码 <https://blog.csdn.net/weixin_34355559/article/details/93302529>
+* git status 中文乱码 <https://www.cnblogs.com/linx/p/9765016.html>
+* 在Git Bash中使用Windows网络路径 <https://www.it1352.com/1733823.html>
